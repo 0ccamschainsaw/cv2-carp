@@ -1,1 +1,3 @@
-# cv2-carp
+Parking Space Detection System using Computer Vision.
+An automated parking space monitoring system using Python and OpenCV that analyzes video footage to detect available parking spots in real-time. Implemented using image processing techniques including grayscale conversion, Gaussian blur, adaptive thresholding, median blur, and dilation to accurately identify free and occupied spaces. Utilized contour analysis and pixel counting to differentiate between empty and occupied spots, displaying real-time availability status on video frames. 
+A manual parking space selection tool with mouse interaction is used for flexible calibration of parking areas. Employed data serialization with pickle for persistent storage of parking spot coordinates. 
